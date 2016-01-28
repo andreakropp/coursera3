@@ -3,8 +3,11 @@ Getting and Cleaning Data Course Project
 
 The files for this project consist of:
 1) README.md (this document)
+
 2) Codebook - Description of variables and transformations
+
 3) run_analysis.R - R script to transformed download data set into tidy data set
+
 4) tidy_data_course3_andrea_kropp.csv - Final tidy data set
 
 
