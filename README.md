@@ -2,6 +2,7 @@
 Getting and Cleaning Data Course Project
 
 The files for this project consist of:
+
 1) README.md (this document)
 
 2) Codebook - Description of variables and transformations
