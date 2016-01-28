@@ -1,4 +1,4 @@
-Codebook for Getting and Cleaning Data Course Project
+# Codebook for Getting and Cleaning Data Course Project
 
 # Data Source
 For more information about data collection methodology and transformation performed prior to this analysis, consult the README files provided by the original investigators.
@@ -24,7 +24,8 @@ Please read the comments embedded within the R script called run_analysis.R to u
 # Variables Provided
 The 66 variables provided are listed below. All of these are averages for the specific participants (subject_id) under the specific consitions (activity_id).
 
-Key to variables names:
+##Key to variables names:
+
 _x, _y, _z : Signals in the X, Y and Z directions
 
 ave_ : Indicates the data is an average across all samples
