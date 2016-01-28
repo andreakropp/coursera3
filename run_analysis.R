@@ -126,4 +126,4 @@ new_data <- dcast(melt_data, activity_id + subject_id ~ variable, fun.aggregate 
 colnames(new_data)<- gsub("time","ave_time",colnames(new_data))
 colnames(new_data)<- gsub("fourier","ave_fourier",colnames(new_data))
 
-write.csv(new_data,"tidy_data_course3_andrea_kropp.csv")
+write.table(new_data,"tidy_data_course3_andrea_kropp.txt", row.name = FALSE)
