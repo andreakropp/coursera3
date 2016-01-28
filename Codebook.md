@@ -49,7 +49,8 @@ jerk_ : Jerk signal derived from the body linear acceleration and angular veloci
 magnitude_ : Magnitude of the Jerk signals calculated using the Euclidean norm
 
 
-activity_id
+activity_id:
+
 1 WALKING
 
 2 WALKING_UPSTAIRS
@@ -62,6 +63,8 @@ activity_id
 
 6 LAYING
 
+---
+##Variable list (in order that they appear in the data file)
 
 activity_id 
 
